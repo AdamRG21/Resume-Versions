@@ -21,6 +21,12 @@ a {
   color:#5d8aaf
 }
 
+.footer-icon {
+  width:60px;
+  height:60px;
+  padding:10px;
+}
+
 .menuitem {
   list-style-type: none;
 }
