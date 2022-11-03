@@ -1,0 +1,48 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:100%;
+  background-color: #e2cff8;
+  color: rgb(44, 20, 53);
+  text-align: left;
+}
+
+header {
+  text-align: center;
+  background-color: #431953;
+  color: #ECD2B0;
+
+  padding: 20px;
+}
+
+footer {
+  background-color: rgb(44, 20, 53);
+  text-align: center;
+  padding: 20px;
+}
+
+a {
+  color:#5d8aaf
+}
+
+.footer-icon {
+  width:60px;
+  height:60px;
+  padding:10px;
+}
+
+.menuitem {
+  list-style-type: none;
+}
+
+
+.bodycopy {
+  margin: 20px;
+  padding: 40px;
+}
+
+#profile {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #ECD2B0;
+  border-radius: 50%
+}
